@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Próba"
+    id="05c740b4-972d-49bd-a080-99cc18844585">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2f481539-b597-4d69-a627-1c97bcdbb25e">
+    <bounds
+        x="343"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_3ae14245-15db-4a67-b8c9-ad1bf4f6dc96.xml#3ae14245-15db-4a67-b8c9-ad1bf4f6dc96"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4cebfbe9-c1c1-4be8-a2a2-1e7c58fed84a">
+    <bounds
+        x="681"
+        y="318"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_9c0580df-3070-4b51-88ad-8806c1cda937.xml#9c0580df-3070-4b51-88ad-8806c1cda937"/>
+  </children>
+</archimate:ArchimateDiagramModel>
