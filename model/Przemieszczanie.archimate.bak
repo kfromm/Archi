@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" xmlns:canvas="http://www.archimatetool.com/archimate/canvas" name="(new model)" id="f854d9f9-76e7-466e-80e7-c65648349c59" version="4.0.1">
+  <folder name="Strategy" id="85b3244f-2920-4f22-a05c-6e760df5b907" type="strategy"/>
+  <folder name="Business" id="7eb85428-839c-4981-bdab-e30c7738b10c" type="business"/>
+  <folder name="Application" id="69b21d30-4e0b-4c46-9cbb-d6af1c159723" type="application"/>
+  <folder name="Technology &amp; Physical" id="d53728d0-8bc8-4021-96bf-e5ea5739c21b" type="technology"/>
+  <folder name="Motivation" id="160db10d-2b8f-44bc-bcf4-33347d5cb010" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="3ce63ab5-98e8-4834-aebd-da1a3de137c3" type="implementation_migration"/>
+  <folder name="Other" id="ffe50bb2-2af3-45af-b8c0-bbde3dc219f5" type="other"/>
+  <folder name="Relations" id="ff1cab26-e269-4728-a363-fb76dc3b54f5" type="relations"/>
+  <folder name="Views" id="13db2b5d-64c7-4868-adee-b70525369ec9" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="301d69ee-e64d-4e8c-9166-cdeebe839898"/>
+    <element xsi:type="canvas:CanvasModel" name="Elevator Pitch" id="_GxPYYHugEemdPsc4MTKaWQ">
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYYXugEemdPsc4MTKaWQ" fillColor="#c6f9c6" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="12" y="12" width="673" height="193"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYYnugEemdPsc4MTKaWQ" fillColor="#f8c491" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="12" y="216" width="673" height="193"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYY3ugEemdPsc4MTKaWQ" fillColor="#d5ff95" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="12" y="420" width="673" height="181"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYZHugEemdPsc4MTKaWQ" fillColor="#ffff95" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="708" y="12" width="661" height="697"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYZXugEemdPsc4MTKaWQ" fillColor="#c6f9f7" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="24" y="24" width="73" height="49"/>
+        <content>KTO?&#xD;
+</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYZnugEemdPsc4MTKaWQ" fillColor="#f7c4c4" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="24" y="228" width="73" height="49"/>
+        <content>CO?</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYaHugEemdPsc4MTKaWQ" fillColor="#f8c491" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="12" y="612" width="673" height="97"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYaXugEemdPsc4MTKaWQ" fillColor="#f8c491" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="24" y="624" width="73" height="49"/>
+        <content>CALL TO ACTION</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYanugEemdPsc4MTKaWQ" fillColor="#ffff95" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="960" y="24" width="181" height="49"/>
+        <content>DRAFT</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="13fb3622-7e81-4bf0-a489-b04e4cf8a668" fillColor="#ffffff" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="108" y="24" width="553" height="157"/>
+        <content>Jesteśmy studentkami i studentami Informatyki Społecznej na AGH.  Mieszkamy w Krakowie, studiujemy w Krakowie i codziennie poruszamy się po Krakowie.</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="6bd85262-460d-46df-ab7e-e30df372dc5f" fillColor="#ffffff" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="108" y="228" width="553" height="157"/>
+        <content>Problemy codziennych podróży uświadomiły nam jakim wyzwaniem jest przemieszczanie się po naszym mieście. W związku z tym stworzyliśmy aplikację, która tworząc trasę dla podróżującego uwzględnia alternatywne środki transportu i bierze pod uwagę liczne czynniki zewnętrzne.</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="0289533d-c41a-4938-a206-3e07c6fdae48" fillColor="#ffffff" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="108" y="432" width="553" height="157"/>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="_GxPYZ3ugEemdPsc4MTKaWQ" fillColor="#d5ff95" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="24" y="432" width="97" height="49"/>
+        <content>ASPIRACJE</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelSticky" id="da205894-10e8-4b1b-9864-9cdadd523368" fillColor="#ffffff" borderColor="#C0C0C0" textPosition="1">
+        <bounds x="108" y="624" width="553" height="73"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
